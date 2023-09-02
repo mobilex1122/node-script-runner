@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle node-runner",
-        "command": "node-runner:openScriptMenu"
+        "label": "Open Script Menu",
+        "command": "node-runner:open-Menu"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "node-runner",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "node-runner:openScriptMenu"
+              "label": "Open Menu",
+              "command": "node-runner:open-Menu"
             }
           ]
         }
