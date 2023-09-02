@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "node-runner:toggle"
+    "ctrl-alt-o": "node-runner:openScriptMenu"
   }
 }
