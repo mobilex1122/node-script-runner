@@ -1,10 +1,9 @@
 {
   "name": "pulsar-node-runner",
   "main": "./lib/node-runner",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/mobilex1122/pulsar-node-runner",
   "license": "MIT",
   "engines": {
