@@ -10,11 +10,11 @@ Run node scripts from your gui without need to type the commands in terminal.
 
 ### x-terminal-reloaded installation error (Build Error)
 
-### Universal solution
+#### Universal solution
 
 Temporarily run pulsar with Python 3.10
 
-### Arch Users
+#### Arch Users
 Note: Run everything in terminal
 1. Install `python310` AUR package.
 2. Create virual enviroment with python310 (`python310 -m venv <enviroment path>`)
