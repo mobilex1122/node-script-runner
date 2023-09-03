@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Open Script Menu",
-        "command": "node-runner:open-Menu"
+        "command": "pulsar-node-runner:open-Menu"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Open Menu",
-              "command": "node-runner:open-Menu"
+              "command": "pulsar-node-runner:open-Menu"
             }
           ]
         }

@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "alt-shift-r": "node-runner:open-Menu"
+    "alt-shift-r": "pulsar-node-runner:open-Menu"
   }
 }

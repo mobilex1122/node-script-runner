@@ -1,5 +1,6 @@
 {
   "name": "node-runner",
+  "name": "pulsar-node-runner",
   "main": "./lib/node-runner",
   "version": "0.0.0",
   "description": "A short description of your package",
