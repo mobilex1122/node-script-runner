@@ -1,7 +1,7 @@
 {
   "name": "pulsar-node-runner",
   "main": "./lib/node-runner",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Run node scripts from your gui without need to type the commands in terminal.",
   "keywords": [],
   "repository": "https://github.com/mobilex1122/pulsar-node-runner",
