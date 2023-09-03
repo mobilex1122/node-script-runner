@@ -4,6 +4,7 @@ Run node scripts from your gui without need to type the commands in terminal.
 
 **Note**: Package requies [`x-terminal-reloaded`](https://web.pulsar-edit.dev/packages/x-terminal-reloaded) package.
 
+[Project Board](https://tree.taiga.io/project/mobilex1122-pulsar-node-runner)
 
 ## Troubleshooting
 
