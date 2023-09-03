@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "repository": "https://github.com/mobilex1122/node-script-runner",
+  "repository": "https://github.com/mobilex1122/pulsar-node-runner",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
